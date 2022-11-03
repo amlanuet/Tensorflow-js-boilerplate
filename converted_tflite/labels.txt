@@ -1,0 +1,4 @@
+0 Red Cone on stand
+1 Blue Cone on stand
+2 Blue Cone on floor
+3 Red Cone on floor
